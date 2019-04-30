@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/iview/iview-area#readme",
   "dependencies": {
-    "area-data": "^1.0.0",
-    "iview": "^3.0.0",
-    "vue": "^2.5.17"
+    "area-data": "^5.0.6",
+    "iview": "file:../iview",
+    "vue": "^2.6.10"
   },
   "keywords": [
     "vue",
